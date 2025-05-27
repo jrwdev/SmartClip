@@ -1,6 +1,6 @@
 # 🎬 SmartClip — AI-Powered TikTok Clip Generator
 
-**AutoReel** is a powerful Python-based automation tool that transforms full-length movies into short, engaging TikTok-style clips — complete with multi-language subtitles, audio transcriptions, and smart slicing logic.
+**SmartClip** is a powerful Python-based automation tool that transforms full-length movies into short, engaging TikTok-style clips — complete with multi-language subtitles, audio transcriptions, and smart slicing logic.
 
 This project was built to streamline content creation for short-form platforms like TikTok, YouTube Shorts, and Instagram Reels.
 
@@ -32,23 +32,23 @@ This project was built to streamline content creation for short-form platforms l
 ## 📁 Project Structure
 
 SmartClip/
-├── source/ # Main source code
-│ ├── main.py
-│ ├── transcribe.py
-│ ├── subtitle_generator.py
-│ ├── render.py
-│ ├── utils.py
-├── requirements.txt
-├── .gitignore
-└── README.md
+```├── source/ # Main source code```
+```│ ├── main.py```
+```│ ├── transcribe.py```
+```│ ├── subtitle_generator.py```
+```│ ├── render.py```
+```│ ├── utils.py```
+```├── requirements.txt```
+```├── .gitignore```
+```└── README.md```
 
 ---
 
 📦 Installation
 
-git clone https://github.com/jrwdev/SmartClip.git
-cd SmartClip
-pip install -r requirements.txt
+```git clone https://github.com/jrwdev/SmartClip.git```
+```cd SmartClip```
+```pip install -r requirements.txt```
 
 **Add a .env file with your API keys:**
 DEEPGRAM_API_KEY=your_key
