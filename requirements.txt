@@ -1,0 +1,9 @@
+moviepy==2.1.2
+imageio-ffmpeg==0.6.0
+requests==2.32.3
+deepgram-sdk==3.11.0
+assemblyai==0.40.2
+openai==1.76.2
+python-dotenv==1.1.0
+pysrt==1.1.2
+tqdm==4.67.1

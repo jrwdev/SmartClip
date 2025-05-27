@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+
+# Secrets
+*.env
+*.json
+info.txt
+
+# System
+.DS_Store
+
+# Data
+data/
+source/
