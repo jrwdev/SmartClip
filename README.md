@@ -31,29 +31,29 @@ This project was built to streamline content creation for short-form platforms l
 
 ## 📁 Project Structure
 
-SmartClip/
-```├── source/ # Main source code```
-```│ ├── main.py```
-```│ ├── transcribe.py```
-```│ ├── subtitle_generator.py```
-```│ ├── render.py```
-```│ ├── utils.py```
-```├── requirements.txt```
-```├── .gitignore```
-```└── README.md```
+SmartClip/  
+```├── source/ # Main source code```  
+```│ ├── main.py```  
+```│ ├── transcribe.py```  
+```│ ├── subtitle_generator.py```  
+```│ ├── render.py```  
+```│ ├── utils.py```  
+```├── requirements.txt```  
+```├── .gitignore```  
+```└── README.md```  
 
 ---
 
-📦 Installation
+📦 Installation  
 
-```git clone https://github.com/jrwdev/SmartClip.git```
-```cd SmartClip```
-```pip install -r requirements.txt```
+```git clone https://github.com/jrwdev/SmartClip.git```  
+```cd SmartClip```  
+```pip install -r requirements.txt```  
 
-**Add a .env file with your API keys:**
-DEEPGRAM_API_KEY=your_key
-ASSEMBLYAI_API_KEY=your_key
-OPENAI_API_KEY=your_key
+**Add a .env file with your API keys:**  
+DEEPGRAM_API_KEY=your_key  
+ASSEMBLYAI_API_KEY=your_key  
+OPENAI_API_KEY=your_key  
 
 ---
 
